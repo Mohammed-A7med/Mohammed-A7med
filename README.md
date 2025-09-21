@@ -15,4 +15,4 @@
 
 ## ✨ Featured Projects
 - [Project 1](link) – short description  
-- [Project 2](link) – short description  
+- [Project 2](link) – short description
