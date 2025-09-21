@@ -11,7 +11,7 @@
 - Git | GitHub | Vite
 
 ## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+Mohamed Ahmed (https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
 ## ✨ Featured Projects
 - [Project 1](link) – short description  
