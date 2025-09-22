@@ -1,19 +1,30 @@
 # Hi 👋, I'm Mohamed Ahmed
 
+💻 **Front-End Developer** | Passionate about building responsive, user-focused web applications  
+
+📍 Giza, Egypt  
+📫 [Email](mailto:mohamedahmedkhalaf68@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed40/)
+
+---
+
 ## 🚀 About Me
-- 🌱 I’m currently learning **React, TypeScript**
-- 💼 I’m a **Front-End Developer**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohamed-a7med/) | [Email](mailto:your-email@example.com)
+I’m a dedicated Front-End Developer with hands-on experience creating scalable, interactive web applications using **React, TypeScript, and modern UI frameworks**.  
+Through internships, bootcamps, and personal projects, I’ve honed my ability to turn designs into seamless user experiences with clean, maintainable code.  
+
+- 🌱 Currently learning **Next.js 15** and advanced React patterns  
+- 🏆 Completed Udacity’s FWD program & multiple Udemy courses  
+- 🤝 Open to collaboration on **frontend projects, UI/UX challenges, and open-source contributions**  
+
+---
 
 ## 🛠️ Tech Stack
-- HTML | CSS | JavaScript | TypeScript  
-- React | Bootstrap | Tailwind | MUI  
-- Git | GitHub | Vite  
+- **Languages:** JavaScript, TypeScript, HTML, CSS  
+- **Frameworks & Libraries:** React, Next.js, Redux, jQuery  
+- **Styling:** Bootstrap, Tailwind, Material UI, SASS, Framer Motion  
+- **Tools:** Git, GitHub, Jira, Swagger, Postman  
+- **Other:** REST APIs, Ajax, Unit Testing, OOP, Responsive Design  
+
+---
 
 ## 📊 GitHub Stats
-![Mohammed-A7med's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-A7med&show_icons=true)
-
-## ✨ Featured Projects
-- [MACHATHON-STP](https://github.com/Mohammed-A7med/MACHATHON-STP) – Hackathon project landing page  
-- [landing-page](https://github.com/Mohammed-A7med/landing-page) – Responsive landing page design  
-- [Summit-STP](https://github.com/Mohammed-A7med/Summit-STP) – Event website project  
+![Mohammed-A7med's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-A7med&show_icons=true&theme=tokyonight)
