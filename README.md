@@ -1,9 +1,9 @@
-# Hi 👋, I'm Mohamed Ahmed
+# Hi there 👋, I’m Mohamed Ahmed
 
 💻 **Front-End Developer** | Passionate about building responsive, user-focused web applications  
 
-📍 Giza, Egypt  
-📫 [Email](mailto:mohamedahmedkhalaf68@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed40/)
+📫 **Let’s Connect:**  
+[LinkedIn](https://[www.linkedin.com](https://www.linkedin.com/in/mohamed-ahmed40/)/) | [Email](mailto:mohamedahmedkhalaf68@gmail.com) | [Portfolio]()
 
 ---
 
