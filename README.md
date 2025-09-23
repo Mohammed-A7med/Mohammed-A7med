@@ -35,3 +35,4 @@
 
 ## 📊 GitHub Stats
 ![Mohammed-A7med's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-A7med&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-A7med&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
