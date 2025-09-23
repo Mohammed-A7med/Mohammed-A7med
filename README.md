@@ -7,23 +7,34 @@
 
 ---
 
-## 🚀 About Me
-I’m a dedicated Front-End Developer with hands-on experience creating scalable, interactive web applications using **React, TypeScript, and modern UI frameworks**.  
-Through internships, bootcamps, and personal projects, I’ve honed my ability to turn designs into seamless user experiences with clean, maintainable code.  
+## 🚀 Tech Stack  
 
-- 🌱 Currently learning **Next.js 15** and advanced React patterns  
-- 🏆 Completed Udacity’s FWD program & multiple Udemy courses  
-- 🤝 Open to collaboration on **frontend projects, UI/UX challenges, and open-source contributions**  
+<p align="center">
+  <!-- Programming Languages & Core Technologies -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
 
----
+  <!-- Frontend Frameworks & Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" />
 
-## 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, HTML, CSS  
-- **Frameworks & Libraries:** React, Next.js, Redux, jQuery  
-- **Styling:** Bootstrap, Tailwind, Material UI, SASS, Framer Motion  
-- **Tools:** Git, GitHub, Jira, Swagger, Postman  
-- **Other:** REST APIs, Ajax, Unit Testing, OOP, Responsive Design  
+  <!-- Styling & UI Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material-UI" />
 
+  <!-- Development Tools & Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
+
+
+</p>
 ---
 
 ## 📊 GitHub Stats
