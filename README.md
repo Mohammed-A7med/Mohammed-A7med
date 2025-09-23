@@ -5,7 +5,8 @@
 ---
 
 # 📫 Let’s Connect:
- [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed40/)  | [Email](mailto:mohamedahmedkhalaf68@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed40/) 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedahmedkhalaf68@gmail.com)
 
 ---
 
