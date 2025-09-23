@@ -2,7 +2,9 @@
 
 💻 **Front-End Developer** | Passionate about building responsive, user-focused web applications  
 
-📫 **Let’s Connect:**  
+---
+
+# 📫 Let’s Connect:
  [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed40/)  | [Email](mailto:mohamedahmedkhalaf68@gmail.com)  
 
 ---
