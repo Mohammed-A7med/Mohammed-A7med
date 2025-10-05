@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi there! I’m Mohamed Ahmed, a Front-End Developer
+👋 Hi there! I’m Mohamed Ahmed , a Front-End Developer passionate about crafting responsive, user-centered web applications that combine clean design with powerful functionality.
 
 ---
 
