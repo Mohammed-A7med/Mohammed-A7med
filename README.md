@@ -25,6 +25,7 @@ I build **scalable, high-performance web applications** with a focus on clean ar
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![OOP](https://img.shields.io/badge/oop-%23323330.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23005EFF.svg?style=for-the-badge&logo=framer&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/responsive%20design-%2300C7B7.svg?style=for-the-badge&logo=responsive&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
@@ -43,7 +44,6 @@ I build **scalable, high-performance web applications** with a focus on clean ar
 ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/unit%20testing-%23FFCA28.svg?style=for-the-badge&logo=testinglibrary&logoColor=black)
-![OOP](https://img.shields.io/badge/oop-%23323330.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
